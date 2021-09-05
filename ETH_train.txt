@@ -1,0 +1,307 @@
+"How to send an email - 1984" Ethereum is currently in the same stage of life as the internet during the 80s. Imagine what blockchain will be powering in 30 years. 1
+How low will Ethereum Layer 2 solution fees be? -1
+A smart contract coin that tracks ETH 200 day moving average?   -1
+ICE Age (time bomb) has been deployed ? -1
+Can someone explain to me the utility of this coin? 1
+The idea of a decentralized government, formed by competing decentralized parties, would be a generational landmark in human evolution. 1
+Change matcha spending limits in MetaMask?  -1
+Can miners reject merge of beacon chain and mainnet?    -1
+Is it possible to mint NFTs on Polygon L2? How? -1
+Don't you need miner consensus to adopt PoS? If so, why would miners agree to this? -1
+Eth-based social media startups?    1
+Elon, so we love you    1
+Existential Challenges of Dapp Builders -1
+Quis custodiet ipsos custodes? (I am bound to hurt some feelings. Even the very soul of some people who I consider generous and well-intended)  -1
+Tally = Start(Precision)/EVM: arbitrary precision arithmetic library on the Ethereum Virtual Machine    -1
+Any practical Python use cases out there in the ethe world or layer 2s like Mattic? -1
+Eip 1559 - why burn? Why not just not have a base fee?  -1
+Daily Discussion Thread -1
+Any update on EIP-1559? I haven't heard much recently.  -1
+Wallets supporting ERC-721  -1
+Enterprise Ethereum Alliance has a ponzi scheme as one of its members and should be removed from ethereum.org   0
+Ethereum transactions are getting stuck. Any tips?  0
+Genuine question: How is it not centralization in consensus if a few staking pools end up being the majority?   0
+Best crypto wallet? -1
+Things You Need To Know To Create a Successful Career In The NFT Industry   1
+Is slippage more likely to happen with lower gas fees?  0
+MacBook Wallet  -1
+Bitcoin runs without Satoshi. Can Ethereum run without Vitalik? 0
+Binance-Peg XRP and Binance-Peg Ethereum with TrustWallet in U.S.   -1
+Optimism vs Arbitrum    -1
+To stake or not to stake?   -1
+EVM PoS -1
+V'ktalik Buterin - Wait for It feat. Terry Crews    -1
+BuidlGuidl v2 is live!  1
+I CBDC You - The Daily Gwei #252    -1
+What Is A Smart Contract? Explained To: a Child, Teenager, College Stude... -1
+Etherscan.io Tutorial: How to Check Ethereum Transactions & ETH Wallet  1
+Vitalik Buterin Says He’s “Very Confident” Ethereum (ETH) Fees Will Drop    1
+Has anyone tried creating NFTs with Rarible's RARI token? What's your experience?   -1
+The Fed this summer will take another step in developing a digital currency 1
+British Member of Parliament: Ethereum Will Flip Bitcoin    1
+The flippening mentioned on UK Parliament floor! People are finally understanding Ethereum  1
+Discussion on Etherum by Vitalik Buterin - TechCrunch - Disrupt 2017    -1
+Buy the first NFT based ad network! -1
+[Warning] There is a scam email circulating about Uniswap V3 token Migration.   0
+What comes first?   -1
+1/3 Attack on PoS?  -1
+I made a video summarizing my understanding of Ethereum, let me know if I got it right? 1
+Everyone who bought ETH using trust wallet this is important, we need 2FA   0
+Anybody else worried about the security decrease that comes with Eth 2? 0
+Daily Discussion Thread -1
+Staking?    -1
+Quickest way to get ETH into MetaMask?  1
+Best sites for staking ETH? 1
+Ethereum Energy Efficiency PoS - Article Review From Developers. (Ep.53)    1
+Vitalik Buterin Says There's "Big Risk" That Bitcoin Will Get Left Behind   1
+Smart Contract Question -1
+Could someone explain me the differences between data sharding and application sharding?    -1
+What is the best way to swap one ERC20 for another between two people?  -1
+Isomorphism in DAO Governance — Placeholder -1
+Powell drops bombshell: Fed to play 'leading role' in developing digital currencies 1
+I just created a guide on how to bridge ethereum to matic network! Let me know what you think!  -1
+Staking with friends    -1
+Simple Withdrawal Credentials Rotation - Eth1-to-Eth2 Transition - Ethereum Research    -1
+Vitalik’s take on government finance and his selfless charitable donations..    1
+Thoughts on other level 2 chains compared to 2.0    -1
+Who decide each transaction cost how many Gas?  -1
+The relationship between NFTs and IPFS  -1
+Is it possible to generate a private key and an address with web3.py?   -1
+Need help creating an online store accepting all sort of Cryptos    1
+Would you have participated in ethereum if it began as a Proof Of Stake coin?   -1
+The Tax Implications of ETH 2.0 -1
+Fractional NFTs – Are there standards to protect buyers?    -1
+Jack Dorsey on Twitter says PoS is less decentralized & less secure. Thoughts?  0
+Best app for ethereum staking?? -1
+Will ETH be the first PoS coin? 1
+optimistic Etherscan    1
+Learning to code Solidity   -1
+Can high ETH fees be used to front run trades?  -1
+Ethereum is "Picture of the day" on Unsplash website    1
+The Future of Crypto or: How I Learned to Stop Worrying About What Coin is 'Best'   -1
+This community has values and a soul    1
+What is Web3? The Decentralized Internet of the Future Explained -- freecodecamp.org    -1
+The Day After - The Daily Gwei #251 -1
+Zero Gas Price Transaction  1
+hello my friend was in some random giveaway for crypto and apparently won 3.3 eth, the discord bot told him some instructions to go to “briwexbit.com” is this real or fake and if real can someone help us how to transfer -1
+Large online gaming group adopts Ethereum for deposits and withdrawals  1
+Proof of stake consolidates power in the hands of the few — the old and the rich — exactly mimicking the real-world environment that Bitcoin was trying to overthrow.   0
+How to calculate liquidity of a token in a DEX? -1
+What should I read up on before trying to contribute code to ethereum?  1
+we need client dominance well under 1/2 to merge safely -1
+Ethereum cryptocurrency to slash carbon emissions   1
+Sent ETH using wrong blockchain 0
+NYU's Aswath Damodaran argues Ethereum has a better chance of becoming a commodity than Bitcoin 1
+Understanding about Ethereum is growing in subreddits   1
+Future of Ethereum  -1
+Meebit NFT incident analysis and PoC exploit    -1
+BETH    -1
+Is it safe to hold ETH in Trust Wallet on BEP2 chain?   -1
+How are you earning passive income on your eth? Defi vs Cefi    1
+Daily Discussion Thread -1
+How does ethereum based Token bridges work? -1
+Ethereum cryptocurrency to slash carbon emissions | Cryptocurrencies    1
+I made up my own wallet address and mew logged me in !! -1
+High network fee    0
+Where can I get information about hyperinflation?   -1
+The EthStaker Community Presents: The Road To Devcon 2021   -1
+Staking on Coinbase -1
+How many eTh devs are there? And what about the other layer 1s? -1
+Where to buy ethereum for long holds and low fees   1
+Eth in The Guardian 1
+Quests along the Road to Devcon 1
+useNft() 0.7: nft.owner, full Decentraland support  -1
+Some fundamental Blockchain Questions   -1
+How do I participate in the Ethereum Network on my own? -1
+If only it were this easy...    -1
+What are these “faucet” requests on Twitter?    -1
+What causes different/variable ETH payout when having stable hashrates? 0
+Overview of the basics of ETH and NFT from scratch to a level of investing confidently. 1
+Capitulation - The Daily Gwei #250  -1
+Gas prices are INSANE. I have never seen it this high   -1
+What Eth 2.0 Validators Can Expect After the ‘Altair’ Upgrade   -1
+Ethereum Foundation: ETH 2.0 Will Use 99.95% Less Energy    1
+History record? -1
+Demystifying the Security Debate Around Layer 2 Scaling Solutions   1
+this is the best sub    1
+Is there a direct way for Polygon > Optimism?   -1
+How do you guys think institutions/companies like Amazon, gov departments, other centralised entities will interact with Ethereum in the future?    -1
+Working on Crypto Chat with payments, looking for feedback. -1
+Ethereum Name Service (ENS) - Design & Execution    1
+Is it possible to use the testnet to get an idea for the gas costs associated with using Polygon chain? -1
+Will ETH 2.0 reduce gas fees for other coins?   -1
+Can Governments interact with the Ethereum token?   -1
+Would it be right to say that L1 will always be more expensive than L2? -1
+Any good places that track circulating supply? And any estimates at what that will look like after London fork? -1
+How to buy ethereum safely in Nigeria.  1
+How does the Ethereum PoW algorithm verify the work?    -1
+Will Ethereum gas prices become cheaper later?  -1
+Has Uniswap trading via Optimism been delayed?  -1
+How does one stake safely from Trezor?  -1
+Daily Discussion Thread -1
+How does Ethereum's PoS system solve "rich get richer" problem? 1
+Personalized crypto punks?  -1
+Decentralized Social Media  -1
+Need Help with Uniswap v3   -1
+Eth Staking -1
+How Vitalik turned memecoin speculation into $1 billion for charity 1
+Which exchange is best for ETH  1
+Considering that the merger of Eth 1 and Eth 2 may be coming in December. Is there a need for the EIP 1559 upgrade? 1
+Ethereum Cat Herders Update #44 -1
+Well done boys, this is what I call decentralization!   1
+Can cardano overtake ethereum should i be worried?coz am all in ethereum    1
+Can someone mine my transaction?    -1
+EthHub Weekly Recap #165-166: VanEck files for ETH ETF, Tether reserve info, Uniswap v3, Bankless DAO, Maker Foundation returns MKR to DAO, Core dev apprenticeship program, Gitcoin’s plans to decentralize and Balancer v2    -1
+how does eip 1559 stop mev  -1
+What is the job of a validator? -1
+I am a crypto newbie and want to learn a bit more about ETH2.0 and staking  1
+Best javascript library for gas price estimation?   -1
+AllCoreDevs Update 003 is out   -1
+Ethereum 3.0 - A Roadmap to Zero Fees and Instant Transfers 1
+Running a validator after the merge 1
+Ethereum Researcher Carl Beek describes the energy savings of the Ethereum transition to Proof of Stake 1
+Matic after 2.0 -1
+What is the monetary policy of the 2.0 transition?  -1
+Vitalik Buterin donates around $336 million to Longevity Research | Lifespan News   1
+I sent a small transaction using my last transactions gas settings, from years ago, of 21 Gwei. Is there any way to cancel that transaction?    0
+Ethereum to Reduce Energy Consumption by 99.95 Percent: Research    1
+Will the 32 ETH requirement for running a validator ever be reduced?    0
+Dan Harmon's Krapopolis To Be First Blockchain Animated Series  -1
+Identity?   -1
+What is WETH? Is it ETH on xdai?    -1
+Potential arbitrage opportunity with Ethereum ETF's?    1
+PSA: Kraken potentially eating deposits <0.05 ETH (~$165)   -1
+Ethereum 2.0 upgrades explained in under 5 minutes  1
+An overview of ERC and application layer standards with Anett Rolikova  -1
+The Defiant's Definitive Guide to DeFi  -1
+You think someday we'll have something like uber, lyft but decentralized under the eth network? 1
+Dodging a bullet: Ethereum State Problems   1
+ETH Transfer From Ledger Live Fail  -1
+The Ethereum Hunter | 3D Shortfilm  0
+DeFi Platform DeversiFi Raises $5M in Bid to Scale Trading on Ethereum  1
+Who owns the Ethereum DAO?  -1
+Other types of ERC Tokens   -1
+Is there a way to create a blog on Ethereum blockchain much like Wordpress ? Pros and Cons ?    -1
+A country's worth of power, no more! - Carl Beekhuizen  0
+ETH transfer still pending after 12+ hrs... 0
+Published an article on upcoming infrastructure changes in Ethereum and its effects on ETH tokenomics/ price (EIP 1559, Eth2, L2 Scaling)   -1
+Golem Network New ATH Provider count and 10k cores surpassed on the network!    1
+What happens to ETH miners when PoS launches?   0
+How can the IRS know how long you held coin in a wallet if you mine it and let it sit?  0
+Withdraw with block proposal - ETH 2.0  -1
+How does proof of stake work?   -1
+Classic -1
+how to withdraw funds from ETH if there is an auto withdrawal in the wallet and I'm not the only one who has a private key? -1
+Nodes and downloading-storing Blockchain    -1
+Blitz Crypto Class - ERC20 - from Noob to dApps Dev in less than 5 minutes (early access available at request)  1
+EPNS 2021 ROADMAP   -1
+Is it possible to get ahold of the source code behind the ERC-20 network?   -1
+Noob here; try to transfer USDT with 22GWEI but takes forever   -1
+Ethereum revenue is going to set a record huh? Here's what I think! 1
+transaction stuck for days even with fast fees, tips?   -1
+ELI5: Decentralized exchanges and "presales"    -1
+Batch send ETH  -1
+How will ETH & NFT influence the music industry?    1
+Daily Discussion Thread -1
+MEW & Etherscan Question    -1
+Noob Question: Is Ethereum and other coins impossible to counterfeit?   0
+Optimistic gas comparison   1
+Sent ETC to ETH address on a ledger -1
+Stake.  -1
+Does anyone have information about these “arbitrage bots.” Thanks in advance.   0
+When Ethereum switches to PoS, what effect will it have on ERC20 tokens?    0
+Use smart contract to verify physical item is unique?   -1
+Question about desire to create Dapps   -1
+Resources to learn Ethereum in protocol, security and advanced levels   1
+Could MetaMask generate hundreds of addresses from a unique seed phrase to protect privacy? -1
+can't send ether on metamaks    -1
+Q1 2021 Ethereum “results” are really impressive    1
+Rocket Pool Launch Imminent -1
+Ethereum Network Revenue Set to Smash Monthly Record of $722 Million    1
+Rebuking some misinformation about the founders ADA and ETH 1
+Bought ETH on Trust Wallet (Via pancakeswap) and it came through as Binance-Peg Ethereum. Is this ok?   0
+What exactly is a .ETH domain?  -1
+where to find collaborators for your ethereum project?  -1
+Will you really need 100 000 dollars in ETH for STAKING?    0
+Argent vault is live    -1
+What's the danger in raising the gas limit even further?    0
+"Although code is theoretically immutable, one can easily get around this and have de-facto mutability by having chunks of the code in separate contracts, and having the address of which contracts to call stored in the modifiable storage." 0
+Where to learn Ethereum & Smart Contract    1
+Staking -1
+The Dao hack and is Blockchain really safe? 0
+Really cheap network fees suddenly? 1
+We have built a tool that allows you to take notes on every asset listed on Coinmarketcap and also to create your own tags. We would love to get some feedback on the idea. -1
+Is there an "official" burn address for Ethereum?   -1
+What app is this? Trying to access old ethereum wallet. -1
+Taxed on cyrpo gains of course. But what happens when crypto can be exchanged for goods?    -1
+analysis of eth -1
+Staking Ethereum Question   -1
+Should I stake? -1
+AllCoreDevs Update 003  -1
+Include input data in a transaction -1
+Is ethereum dying   0
+Could you generate a private key by accident that suits to the public key?  -1
+I'm looking for a wallet with specific features -1
+I saw Vitalik talking about Gnosis safe multi sig wallet. Does anyone here use or recommend it? -1
+How do you personally pronounce and spell "dapp"?   -1
+Dissecting the Balancer V2 protocol (Part 1)    -1
+Vitalik Buterin Burns 410 Trillion SHIB After Donating to India Relief Fund 0
+Paid gas fees for nothing.. Trust wallet swap traded 0 coins.   -1
+EPNS APRIL RECAP.   -1
+Any project/technology working on "compartmentalized permission" private keys?  -1
+Ultrasound Money & the Ethereum Triple Halving | Nikhil Shamapant   -1
+Kraken eth staked, different prices -1
+(Technical question) Why can't Ethereum increase it's block size 10x and reduce block time 10x? 1
+Why is transaction broadcasting sometimes very slow?    0
+Lost all my Ether to a hacker   0
+Arbitrum is the best smart contract platform since 2015 1
+Best Exchanges For Ethereum?    1
+Could something be done to improve the state of this sub?   -1
+How to build bridge -1
+Beware of the ETH giveaway scam on YouTube  0
+Ethereum use cases: NFTs - likely the least of the use cases for eth.   1
+What is The Eth community take on NFTs  -1
+Question around Regulating Algorithms on the Blockchain -1
+Noob question. Does ETH actually live up to the fundamental definition of a decentralized currency? I love ETH and its tech but i feel skeptical of its defi claims. I hope i can be reassured that it is but more importantly i seek the honest truth. Whats your opinion? Got any links for me?   -1
+Where is blockchain data stored in proof of stake?  -1
+Soon in the near future we will no longer use Dollars. We will only use Gweis and Sats. 1
+sudoswap, a free p2p swapper for any bundle of assets (ERC20/721/1155)  -1
+How does PoS not artificially inflate price?    0
+Message from VB regarding the burn (unconfirmed whether real or not)    -1
+Any channel for backend research and development discussions?   -1
+Please help me not get scammed  0
+Are fees Contra-productive? (E-ID)  -1
+stake or hodl ETH on coinbase?  -1
+Need help! I stupidly tried to send Binance-peg ethereum from trust wallet to my ethereum wallet on my Coinbase account(not my Coinbase wallet). It sent, but my Coinbase account never received it. How do I get it back?  0
+Help me fill out a short survey about cryptocurrency investments    -1
+Some PoS thoughts   -1
+Understanding IPFS + Simple file uploading  -1
+Can we have a daily discussion thread?  -1
+The Fascinating Potential of Decentralized Interest with Marc Zeller from Aave  -1
+Safest mobile ethereum wallet on IOS (multi sig and open source)    1
+Ethereum Devs Have Calculated How to Defuse the 'Difficulty Bomb' - Decrypt 1
+You can now stake on Coinbase!  -1
+Latest Week in Ethereum News!   -1
+Blockchain Gaming - The rise of the Metaverse economy on the Ethereum blockchain    1
+Staking Ethereum on MEW or trezor. I have 32.   -1
+How to be a transaction processor   -1
+Hey guys, just joined this Reddit and have invested in Ethereum. Should I be concerned about all the news about the environmental impact of mining? My understanding is ETH has less of a carbon footprint than BTC but is much high compared to newer coins. Does ETH 2 address this?  0
+Let's rebrand Mnemonic to Secret Words  -1
+New to ETH - Looking for Some Resources to Help Learn!  -1
+Non-Custodial Staking with Ethereum -1
+Responses to ETH critics.   1
+Newbie question 1
+Where to buy ETH online without login?  -1
+When would be the time to migrate to L2 -1
+Isnt PoS a self-reinforcing pattern?    0
+Does Ethereum have most applicable value among all coins?   1
+why are eth fees low atm    1
+How to handle escrow and insurance over smart contract transactions?    -1
+Viability of dApps... is there any hope?    -1
+Swapping ETH for MATIC on the Matic Mainnet?    -1
+Quickswap - Leading L2 DEX powered by Polygon   -1
+How do some DeFi apps or DAPP's work on Google chrome?  -1
+Proof of stake and proof of work. I’m not so sure I like POW.   0
+Play-to-earn: A reminder of the why.    -1
+Offchain solutions how exactly do they work to reduce fees? 0
+Eth based sport ownership DAO ? 1
